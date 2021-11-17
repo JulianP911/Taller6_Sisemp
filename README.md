@@ -1,7 +1,14 @@
-## Application Details
+## Taller 6 - Sistemas Empresariales
+
+<strong>Autor:</strong> Julián Padilla Molina
+<br>
+<strong>Código:</strong> 201913677
+<br>
+<strong>Clase:</strong> Sistemas Empresariales
+
+## Detalles de la Aplicación
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Tue Nov 16 2021 22:02:03 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori|
 |**App Generator Version**<br>1.4.1|
 |**Generation Platform**<br>SAP Business Application Studio|
@@ -18,19 +25,27 @@
 |**Enable Telemetry**<br>True|
 
 ## products_manager
+<ul>
+<li>Aplicación SAP Fiori para la gestión de productos.</li>
+</ul>
 
-SAP Fiori elements application for managing products
+### Iniciar la aplicación generada
 
-### Starting the generated app
-
--   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
+-   Esta app ha sido generada utilizando las herramientas de SAP Fiori - App Generator, como parte de la suite de herramientas de SAP Fiori. Para lanzar la aplicación generada, simplemente ejecute lo siguiente desde la carpeta raíz de la aplicación generada:
 
 ```
     npm start
 ```
 
-#### Pre-requisites:
+#### Pre-requisitos:
 
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+1. Versión activa de Node LTS (Long Term Support) y versión asociado de NPM compatible. (Revisar: https://nodejs.org)
+
+## Vista de la aplicación
+
+<ul>
+<img src="https://github.com/JulianP911/Entrega3_Web_Cloud/blob/main/Vista%20Aplicacio%CC%81n.png" alt="Vista de la aplicacion de gestión de productos">
+</ul>
+
 
 
